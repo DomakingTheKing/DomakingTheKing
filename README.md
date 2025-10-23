@@ -1,4 +1,4 @@
-#👋 Welcome to my GitHub!
+👋 Welcome to my GitHub!
 
 My name is Francesco, known online as **Domakingo**, and I’m a student passionate about technology and nerd culture.
 
