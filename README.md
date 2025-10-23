@@ -1,4 +1,4 @@
-# こんにちは！👋 Welcome to my GitHub!
+#👋 Welcome to my GitHub!
 
 My name is Francesco, known online as **Domakingo**, and I’m a student passionate about technology and nerd culture.
 
@@ -27,15 +27,6 @@ My name is Francesco, known online as **Domakingo**, and I’m a student passion
 ## 🎵 Find Me Here:
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/807vo122hfc8sbozsms5xcoi1?si=tQP7a2xYRcC72g0Ic-z3uQ)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/351377109710536704)  
-
----
-
-## 🌌 A Little About Me...
-🖤 I like anime, manga, and video games!  
-🖤 I would like to study and delve deeper into the art of graphic design.  
-🖤 I bring creativity and dedication to every project I work on.
-
-Thank you for stopping by! 🌸✨
 
 ---
 
